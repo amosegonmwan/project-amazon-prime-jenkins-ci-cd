@@ -1,4 +1,5 @@
 # Amazon Prime Clone Deployment with DevOps Tools
+![Pipeline Overview](./src/schematics.png)
 
 ## Description
 This project demonstrates the deployment of an Amazon Prime clone using advanced DevOps tools and practices. The pipeline covers everything from infrastructure provisioning to code quality analysis, security scanning, containerization, and deployment on Kubernetes using AWS.
